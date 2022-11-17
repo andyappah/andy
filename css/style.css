@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    padding: 25px;
+    background-color: #0077b3;
+}
+
+#header{
+    border-bottom: black;
+    text-align: center;
+    font-size: 50px;
+}
+
+.overmij{
+    font-size: 20px;
+}
+
+.skills{
+    font-size: 40px;
+}
+.skills p{
+    font-size: 20px;
+}
